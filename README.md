@@ -21,5 +21,5 @@ ___
 - [Алгоритмы и структуры данных](https://github.com/mereska0/ct-3132-3135-lectures/tree/main/Алгосы)
 - [Дискретная математика](https://github.com/mereska0/ct-3132-3135-lectures/tree/main/ДМ)
 - [ЛинАл](https://github.com/mereska0/ct-3132-3135-lectures/tree/main/ЛинАл)
-- [МатАнализ](https://github.com/mereska0/ct-3132-3135-lectures/tree/main/%D0%90%D0%BB%D0%B3%D0%BE%D1%81%D1%8B)
+- [МатАнализ](https://github.com/mereska0/ct-3132-3135-lectures/tree/main/МатАн)
 - [С/С++](https://github.com/mereska0/ct-3132-3135-lectures/tree/main/cpp)
