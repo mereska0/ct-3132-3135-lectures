@@ -18,4 +18,4 @@ ___
 - prog-intro/paradigms - Бац Константин Александрович
 ___
 ### Быстрая навигация:
-- 
+- [ЛинАл](https://github.com/mereska0/ct-3132-3135-lectures/tree/main/%D0%90%D0%BB%D0%B3%D0%BE%D1%81%D1%8B)
