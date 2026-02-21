@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "5b528829b04f7a8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "15eef2a8f3cba465",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76f35027e49922c1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b39244c2f292810",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a3ff9eba78dab9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f869dc1865d349e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8d524152d91ffb7b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "58f1b27459efbd6e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4df9e0864caea47f",
+    "type": "split",
+    "children": [
+      {
+        "id": "da697462b5981d89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85db18bab4627166",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Линейка/ТТ и КЛК Линал.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ТТ и КЛК Линал"
+            }
+          },
+          {
+            "id": "5d1cf69591d1cf89",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Линейка/04.09.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 04.09"
+            }
+          },
+          {
+            "id": "6ff0f83a3bf049fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7982674ec5e68513",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Линейка/ТТ и КЛК Линал.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ТТ и КЛК Линал"
+            }
+          },
+          {
+            "id": "71fc9cd8beac457c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "76f35027e49922c1",
+  "lastOpenFiles": [
+    "ЛинАл/used",
+    "README(1).md",
+    "Untitled.base",
+    "image.png",
+    "Отображение (функция).md",
+    "ЛинАл/used/Лекции_алгебра_I (3).pdf",
+    "ДМ/18.02.md",
+    "ct-3132-3135-lectures",
+    "ЛинАл/12.02.md",
+    "cpp/21.02.md",
+    "cpp/3 лекция (2).md",
+    "cpp/14.02.md",
+    "Прога/10.02.md",
+    "Прога/09.09   Введение.md",
+    "ДМ/11.02.md",
+    "cpp/07.02.md",
+    "Алгосы/11.02.md",
+    "ДМ/дз.md",
+    "Алгосы/дз.md",
+    "ДМ.zip",
+    "cpp/14.02 1.md",
+    "Алгосы/img/image-2.png",
+    "ДМ/img/image-1.png",
+    "Алгосы/img/image-3.png",
+    "Алгосы/img/image-4.png",
+    "ДМ/img",
+    "Алгосы/img",
+    "ЛинАл/первый сем линала.md",
+    "ЛинАл",
+    "Линейка/Векторные пространства/Png ВП/Иллюстрация Основной теоремы о Гом-ах.png",
+    "Линейка/Векторные пространства/Базис и координаты.md",
+    "Линейка/Введение в алгебру.md",
+    "Линейка/Векторные пространства (ВП).md",
+    "Алгосы/08.09.pdf",
+    "ДМ/лекция 9.md",
+    "МатАн/09.02.md",
+    "МатАн/Темы КЛК и ТТ МатАн.md",
+    "Линейка/Векторные пространства/Основные понятия.md",
+    "cpp",
+    "Линейка/Векторные пространства/Образ и ядро.md",
+    "Линейка/Введение в алгебру/Матрицы/Разложение определителя.md",
+    "Линейка/Введение в алгебру/Png КЛК ЛинАл 1/аксиома бесконечности.png",
+    "Линейка/Векторные пространства/Png ВП",
+    "Линейка/Введение в алгебру/Png КЛК ЛинАл 1/Умножение многочленов.png",
+    "Линейка/Введение в алгебру/Png КЛК ЛинАл 1/Теорема Виета.png",
+    "Линейка/Введение в алгебру/Png КЛК ЛинАл 1/Производная многочлена.png"
+  ]
+}
