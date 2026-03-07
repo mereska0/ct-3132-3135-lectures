@@ -39,7 +39,9 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Алгосы"
+    "//Алгосы",
+    "//Алгосы/Алгосы/34-35",
+    "//Алгосы/Алгосы/32-33"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
