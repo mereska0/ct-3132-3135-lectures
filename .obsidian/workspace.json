@@ -11,10 +11,14 @@
             "id": "1419fde465b3e81b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "cpp/1. Базовый синтаксис, типы данных_S.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "1. Базовый синтаксис, типы данных_S"
             }
           }
         ]
@@ -67,11 +71,11 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Закладки"
+              "title": "Bookmarks"
             }
           },
           {
-            "id": "837a2eb42040f5fd",
+            "id": "9ec71cd220389cfd",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -80,12 +84,11 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 261.5
   },
   "right": {
     "id": "4df9e0864caea47f",
@@ -178,24 +181,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "1419fde465b3e81b",
   "lastOpenFiles": [
+    "Untitled.base",
+    "cpp/1. Базовый синтаксис, типы данных_S.md",
+    "Untitled",
+    "Tags",
     "cpp/5.  Алиасинг, строки_S.md",
     "МатАн/3233/3. Исследование функции при помощи производных_D.md",
     "МатАн/3233/2. Формула Тейлора_E.md",
     "МатАн/3233/1. Французские теоремы_E.md",
     "cpp/3. Слова управления, псевдонимы, приоритеты_E.md",
     "cpp/2. Побитовые операторы, float, while_S.md",
-    "cpp/1. Базовый синтаксис, типы данных_S.md",
     "README.md",
     "Прога/Программирование по контракту_S.md",
     "Прога/Введение_S.md",
@@ -215,7 +221,6 @@
     "Clippings/Прямое произведение ДКА — Викиконспекты.md",
     "Clippings",
     "Алгосы/34-35/2. Splay-Дерево_S.md",
-    "Алгосы/32-33/initial.md",
     "Алгосы/img/дерево отрезков для максимума.jpg",
     "Алгосы/дерево отрезков для максимума.jpg",
     "Алгосы/img/image-2.png",
@@ -224,16 +229,13 @@
     "Алгосы/img/image-3.png",
     "ДМ/img/shennon.png",
     "ДМ/img/idkwhatisit.png",
-    "Tags",
     "МатАн/3233/png/Точки экстремума.png",
     "МатАн/3233/png/Ролля.png",
     "МатАн/3233/png",
     "ЛинАл/used",
-    "Untitled.base",
     "ЛинАл/used/Лекции_алгебра_I (3).pdf",
     "ct-3132-3135-lectures",
     "ДМ.zip",
-    "ДМ/img",
-    "Алгосы/img"
+    "ДМ/img"
   ]
 }
