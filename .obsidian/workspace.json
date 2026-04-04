@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cpp/1. Базовый синтаксис, типы данных_S.md",
+                "file": "cpp/9. Создания и сборка бибилотеки_E .md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Базовый синтаксис, типы данных_S"
+              "title": "9. Создания и сборка бибилотеки_E"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "9ec71cd220389cfd",
+            "id": "09c3b589a88edbd7",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -84,7 +84,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -187,20 +188,26 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-matrix:Obsidian Matrix": false
     }
   },
   "active": "1419fde465b3e81b",
   "lastOpenFiles": [
-    "Untitled.base",
+    "cpp/4. Указатели_S.md",
+    "cpp/3. Слова управления, псевдонимы, приоритеты_E.md",
+    "cpp/9. Создания и сборка бибилотеки_E .md",
+    "cpp/6. Структуры_S.md",
+    "cpp/7.  Restrict, variadic, Область видимости.md",
     "cpp/1. Базовый синтаксис, типы данных_S.md",
-    "Untitled",
     "Tags",
+    "Untitled.base",
+    "Untitled",
     "cpp/5.  Алиасинг, строки_S.md",
     "МатАн/3233/3. Исследование функции при помощи производных_D.md",
     "МатАн/3233/2. Формула Тейлора_E.md",
     "МатАн/3233/1. Французские теоремы_E.md",
-    "cpp/3. Слова управления, псевдонимы, приоритеты_E.md",
     "cpp/2. Побитовые операторы, float, while_S.md",
     "README.md",
     "Прога/Программирование по контракту_S.md",
@@ -216,11 +223,8 @@
     "ДМ/1. Введение в Теор вер_S.md",
     "Алгосы/32-33/Дерево отрезков_E.md",
     "Алгосы/34-35/1. Бин деревья, AVL-tree_S.md",
-    "cpp/4. Указатели_S.md",
     "cpp/Лабораторная работа .md",
-    "Clippings/Прямое произведение ДКА — Викиконспекты.md",
     "Clippings",
-    "Алгосы/34-35/2. Splay-Дерево_S.md",
     "Алгосы/img/дерево отрезков для максимума.jpg",
     "Алгосы/дерево отрезков для максимума.jpg",
     "Алгосы/img/image-2.png",

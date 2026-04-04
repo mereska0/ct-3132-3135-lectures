@@ -3,5 +3,6 @@
   "image-converter",
   "make-md",
   "templater-obsidian",
-  "obsidian-matrix"
+  "obsidian-matrix",
+  "editing-toolbar"
 ]
