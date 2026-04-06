@@ -1,5 +1,8 @@
 [
   "advanced-canvas",
   "image-converter",
-  "make-md"
+  "make-md",
+  "templater-obsidian",
+  "obsidian-matrix",
+  "editing-toolbar"
 ]
